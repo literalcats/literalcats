@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hub App for my BSIT Block<br>
+First Year BSIT Mayor creating practical apps to reduce stress<br>
 
 
 # 💻 Tech Stack:
